@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipeTest", "NamedPipeTest\NamedPipeTest.csproj", "{CB877FDD-03F3-4350-82D1-95B68089655D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB877FDD-03F3-4350-82D1-95B68089655D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB877FDD-03F3-4350-82D1-95B68089655D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB877FDD-03F3-4350-82D1-95B68089655D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB877FDD-03F3-4350-82D1-95B68089655D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

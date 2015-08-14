@@ -1,0 +1,10 @@
+C:\Users\FS1948\Documents\Visual Studio 2008\Projects\NamedPipeTest\NamedPipeTest\bin\Debug\NamedPipeTest.exe
+C:\Users\FS1948\Documents\Visual Studio 2008\Projects\NamedPipeTest\NamedPipeTest\bin\Debug\NamedPipeTest.pdb
+C:\Users\FS1948\Documents\Visual Studio 2008\Projects\NamedPipeTest\NamedPipeTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FS1948\Documents\Visual Studio 2008\Projects\NamedPipeTest\NamedPipeTest\obj\Debug\NamedPipeTest.exe
+C:\Users\FS1948\Documents\Visual Studio 2008\Projects\NamedPipeTest\NamedPipeTest\obj\Debug\NamedPipeTest.pdb
+C:\dev\NamedPipeTest\NamedPipeTest\obj\Debug\NamedPipeTest.exe
+C:\dev\NamedPipeTest\NamedPipeTest\obj\Debug\NamedPipeTest.pdb
+C:\dev\NamedPipeTest\NamedPipeTest\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\NamedPipeTest\NamedPipeTest\bin\Debug\NamedPipeTest.exe
+C:\dev\NamedPipeTest\NamedPipeTest\bin\Debug\NamedPipeTest.pdb
